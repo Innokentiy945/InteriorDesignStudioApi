@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteriorDesignStudioApi", "InteriorDesignStudioApi.csproj", "{57EF6924-C85D-4A9B-B655-65EB8C73DE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteriorDesignStudioAdminApi", "..\..\InteriorDesignStudioAdminApi\InteriorDesignStudioAdminApi\InteriorDesignStudioAdminApi.csproj", "{F6305AE3-A0DC-4B91-ACD2-7F6924D91CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57EF6924-C85D-4A9B-B655-65EB8C73DE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EF6924-C85D-4A9B-B655-65EB8C73DE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EF6924-C85D-4A9B-B655-65EB8C73DE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EF6924-C85D-4A9B-B655-65EB8C73DE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6305AE3-A0DC-4B91-ACD2-7F6924D91CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6305AE3-A0DC-4B91-ACD2-7F6924D91CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6305AE3-A0DC-4B91-ACD2-7F6924D91CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6305AE3-A0DC-4B91-ACD2-7F6924D91CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
